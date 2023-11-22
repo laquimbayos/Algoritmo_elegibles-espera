@@ -1,5 +1,5 @@
 # Algoritmo_elegibles-espera
-Proyecto ejemplo de selección de elegibles y listas de espera programas académicos de una IES con puntajes diferenciales.  
+Proyecto ejemplo de selección de elegibles y listas de espera a programas académicos de una IES con puntajes diferenciales.  
 
 Este proyecto es un breve ejemplo de un algoritmo desarrollado en Python, específicamente diseñado para el procesamiento y la asignación de aspirantes a diferentes programas académicos con un enfoque de puntajes diferenciales a poblaciones vulnerables que en sus prioridades escojan programas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas).
 
